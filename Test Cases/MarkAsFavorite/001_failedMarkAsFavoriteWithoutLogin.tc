@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_failedMarkAsFavoriteWithoutLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41babc9d-d890-497e-b26a-53ba5e976af1</testCaseGuid>
+</TestCaseEntity>

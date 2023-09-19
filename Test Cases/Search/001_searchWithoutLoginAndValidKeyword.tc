@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_searchWithoutLoginAndValidKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7f368d1-9023-4cc4-8192-537621a70259</testCaseGuid>
+</TestCaseEntity>

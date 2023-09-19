@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>imgRecomendationOnDetailBarbie</name>
+   <tag></tag>
+   <elementGuidId>f7da2423-b8da-476d-a35b-c183cbf4f637</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='recommendation_scroller']/div/div[2]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[alt=&quot;Kingdom 3: The Flame of Fate&quot;] > img.backdrop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>afd8727c-f5fa-404e-93de-583916178d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>1b1af2c0-6261-4737-b128-8e8635a5d123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>backdrop</value>
+      <webElementGuid>469f9015-8ae2-40a1-a7ee-4c699898487a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/t/p/w250_and_h141_face/9ZlGiEKmcYrrxmiQEJDhjeT2kEW.jpg</value>
+      <webElementGuid>23405ab0-002e-4bb7-b110-f48178fa56b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>/t/p/w250_and_h141_face/9ZlGiEKmcYrrxmiQEJDhjeT2kEW.jpg 1x, /t/p/w500_and_h282_face/9ZlGiEKmcYrrxmiQEJDhjeT2kEW.jpg 2x</value>
+      <webElementGuid>5b74108e-6645-4365-8dce-4614033cf5b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Kingdom 3: The Flame of Fate</value>
+      <webElementGuid>284c1156-6b70-4734-abab-cccfaa2ea367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;recommendation_scroller&quot;)/div[@class=&quot;scroller&quot;]/div[@class=&quot;item mini backdrop mini_card&quot;]/div[@class=&quot;image_content&quot;]/a[1]/img[@class=&quot;backdrop&quot;]</value>
+      <webElementGuid>a5a6eeb5-dfaa-462c-b44b-df57391407db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='recommendation_scroller']/div/div[2]/div/a/img</value>
+      <webElementGuid>2bab07d4-6c5e-4115-abc9-3efbd3f7be9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Kingdom 3: The Flame of Fate']</value>
+      <webElementGuid>82597ab0-ff36-4cc4-a851-8b0d59d7a0cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/img</value>
+      <webElementGuid>d37f7ddf-d6b7-4feb-b354-a46dbe04ca41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/t/p/w250_and_h141_face/9ZlGiEKmcYrrxmiQEJDhjeT2kEW.jpg' and @alt = 'Kingdom 3: The Flame of Fate']</value>
+      <webElementGuid>20d0ab5f-05a4-4b73-8073-6a2fae8ce395</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

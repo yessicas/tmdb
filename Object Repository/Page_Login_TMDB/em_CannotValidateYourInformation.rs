@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_CannotValidateYourInformation</name>
+   <tag></tag>
+   <elementGuidId>4b76b2fd-c445-42a2-bfeb-fececada4de0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/section/div/div/div/div/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content > ul > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b6ca85fc-cc6f-4e60-a5b1-866b73eb9a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We couldn't validate your information. Want to try again?</value>
+      <webElementGuid>4ed80cbf-02e6-4d91-8408-025da28acc9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/section[@class=&quot;main_content content&quot;]/div[@class=&quot;column_wrapper&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;error_status card&quot;]/div[@class=&quot;carton&quot;]/div[@class=&quot;content&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>850b5529-8d3a-42af-99c4-ec6d845d240a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/section/div/div/div/div/div/div/ul/li</value>
+      <webElementGuid>22395154-2626-4b80-9164-a4cc3171e327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='click here'])[1]/following::li[1]</value>
+      <webElementGuid>f0f50f64-0366-4dbf-9530-4643827cf9e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have 1 remaining login attempts.'])[1]/preceding::li[1]</value>
+      <webElementGuid>3e5489bd-a1bd-42f8-9256-57e9eb09e09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::li[2]</value>
+      <webElementGuid>2a2eda4c-adbd-4fb8-83b1-e0c14a80cb22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/ul/li</value>
+      <webElementGuid>65318840-cee7-4ec4-a079-500bc29dda64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;We couldn&quot; , &quot;'&quot; , &quot;t validate your information. Want to try again?&quot;) or . = concat(&quot;We couldn&quot; , &quot;'&quot; , &quot;t validate your information. Want to try again?&quot;))]</value>
+      <webElementGuid>c1c6b51d-a170-4255-933f-2cb4ca2b945e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

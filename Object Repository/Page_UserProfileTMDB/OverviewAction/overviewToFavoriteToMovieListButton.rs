@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>overviewToFavoriteToMovieListButton</name>
+   <tag></tag>
+   <elementGuidId>baa1ecd4-17b9-461b-afb9-0b39d99a037d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;new_shortcut_bar_mn_active&quot;]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.k-item.k-menu-item.k-state-default.k-first.k-state-hover > a.k-link.k-menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dfff238c-e649-4608-a2d3-4c3f3beca594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/u/yessicas/favorites</value>
+      <webElementGuid>edce2727-e460-4e9b-8be0-15c34df89a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-link k-menu-link</value>
+      <webElementGuid>b0c780e3-df63-4582-a6c6-b3e3008cc688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Movies</value>
+      <webElementGuid>c9994da3-6197-4fbd-9bb8-84a25bf8dd04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_shortcut_bar_mn_active&quot;)/div[@class=&quot;k-animation-container&quot;]/ul[@class=&quot;k-group k-menu-group k-popup k-reset k-state-border-left&quot;]/li[@class=&quot;k-item k-menu-item k-state-default k-first k-state-hover&quot;]/a[@class=&quot;k-link k-menu-link&quot;]</value>
+      <webElementGuid>8d65d5de-0bd1-4b3f-8913-65744f22cd71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='new_shortcut_bar_mn_active']/div/ul/li/a</value>
+      <webElementGuid>2a188307-86a9-4bb8-9b11-4264404fb328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Movies')])[2]</value>
+      <webElementGuid>3a1f1ff5-aba0-4e73-b410-d556a9403328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favorites'])[1]/following::a[1]</value>
+      <webElementGuid>7ae2aa6d-96b0-4d25-adba-4c2c7330993a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Main'])[1]/following::a[1]</value>
+      <webElementGuid>510042fc-e6e9-4b28-af0d-063ad66a9a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TV Shows'])[2]/preceding::a[1]</value>
+      <webElementGuid>52285272-c731-492f-ab46-006a03af10b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommendations'])[1]/preceding::a[2]</value>
+      <webElementGuid>bbd44e25-5df3-4786-a882-91bf0dcadd83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/u/yessicas/favorites')]</value>
+      <webElementGuid>6dc94dfb-9cfe-4f84-93f2-561811787bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li/a</value>
+      <webElementGuid>31bbccb0-67d5-456f-8b2f-f1e6ecb21160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/u/yessicas/favorites' and (text() = 'Movies' or . = 'Movies')]</value>
+      <webElementGuid>f101caa5-ab36-439f-8df1-4ed1e26df30f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

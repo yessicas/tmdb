@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_failedLoginWithUnregisterUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30eef1cd-1ff5-4837-a317-ea300b668a00</testCaseGuid>
+</TestCaseEntity>

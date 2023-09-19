@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_searchWithLoginAndInvalidKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95af4c76-6f6c-40a6-9058-501e14255b3a</testCaseGuid>
+</TestCaseEntity>

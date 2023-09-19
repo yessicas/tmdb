@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spanSearchHeaderButton</name>
+   <tag></tag>
+   <elementGuidId>e1209fd7-fa33-4a73-863a-0a050b08e285</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[5]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicons_v2.search.blue</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>28e12170-9017-4044-a56e-25f9052bc8e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicons_v2 search blue</value>
+      <webElementGuid>1e2e818a-ce52-4ad4-a179-509c762a8e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js k-webkit k-webkit116&quot;]/body[@class=&quot;en v4&quot;]/div[@class=&quot;page_wrap _wrap&quot;]/header[@class=&quot;normal smaller no_animation smaller  subtle&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;sub_media&quot;]/div[@class=&quot;flex&quot;]/ul[@class=&quot;primary&quot;]/li[@class=&quot;glyph search_buttons&quot;]/a[@class=&quot;search&quot;]/span[@class=&quot;glyphicons_v2 search blue&quot;]</value>
+      <webElementGuid>356eabe8-f680-4001-a14b-2e9373e33f11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/span</value>
+      <webElementGuid>aec5310c-9c15-4840-adc1-1afa0004a03b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

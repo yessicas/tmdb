@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divActionBurgerButton</name>
+   <tag></tag>
+   <elementGuidId>23f32400-d26b-49b0-93e6-24fd30b4f576</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='trending_scroller']/div/div[4]/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fb4e736b-7cff-4d1d-83be-0f12354ed02b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicons_v2 circle-more white</value>
+      <webElementGuid>1b326959-ca74-4c09-bb47-7b1b367d537c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trending_scroller&quot;)/div[@class=&quot;column_content flex scroller loaded&quot;]/div[@class=&quot;card style_1&quot;]/div[@class=&quot;image&quot;]/div[@class=&quot;options&quot;]/a[@class=&quot;no_click&quot;]/div[@class=&quot;glyphicons_v2 circle-more white&quot;]</value>
+      <webElementGuid>d33c8c74-2fc0-43cf-8621-fe25c2312961</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='trending_scroller']/div/div[4]/div/div[2]/a/div</value>
+      <webElementGuid>c49d331a-cde6-4a69-8c11-f6175f933196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/a/div</value>
+      <webElementGuid>a17dcc17-17a1-472e-a2e8-f39fa522593b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

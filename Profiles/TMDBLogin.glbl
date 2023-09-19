@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>TMDBLogin</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.themoviedb.org/'</initValue>
+      <name>base_URL_TMDBLogin</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

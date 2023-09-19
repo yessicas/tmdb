@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>favoriteButtonHomepage</name>
+   <tag></tag>
+   <elementGuidId>a904b779-3e26-4756-8d60-d5b289015181</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Favorite')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-tooltip-content > div.settings_content > div.group > p > a.no_click.options_tooltip_link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cc49e281-f261-4793-a5a4-f2ff97d7aed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no_click options_tooltip_link</value>
+      <webElementGuid>68a413dc-8aae-4d25-9f5d-b44fb0ecf241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>favourite</value>
+      <webElementGuid>e5ff43d4-6475-4bd2-ba7e-54c2aa76a3da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>e9f74211-83f4-43c4-b297-1b17880af38f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Favorite</value>
+      <webElementGuid>03af7ba7-9665-44a4-9d9f-57d74aeb8628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js k-webkit k-webkit116&quot;]/body[@class=&quot;en v4&quot;]/div[@class=&quot;k-animation-container&quot;]/div[@class=&quot;k-widget k-tooltip k-tooltip-closable k-popup k-group k-reset k-state-border-up tmdb_theme_white no_pad&quot;]/div[@class=&quot;k-tooltip-content&quot;]/div[@class=&quot;settings_content&quot;]/div[@class=&quot;group&quot;]/p[1]/a[@class=&quot;no_click options_tooltip_link&quot;]</value>
+      <webElementGuid>61f24d55-938a-467c-834a-028a0d8cbec9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Favorite')])[2]</value>
+      <webElementGuid>417bebf0-8091-4dec-ac9f-f8de4d34cc7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to list'])[2]/following::a[1]</value>
+      <webElementGuid>1ec74480-ba56-426d-866c-ec654a0a4b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allow All'])[1]/following::a[3]</value>
+      <webElementGuid>a5e615cb-6b05-4d0d-bc43-83b5505cb13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watchlist'])[3]/preceding::a[1]</value>
+      <webElementGuid>42be00e4-311e-46f8-8e9d-cf20cd1e9c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your rating'])[2]/preceding::a[2]</value>
+      <webElementGuid>f6f360a4-376c-44e4-b8b3-fdf4c89e2064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[251]</value>
+      <webElementGuid>90e10c65-867c-4312-8fea-47e16c929cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div/div[2]/p/a</value>
+      <webElementGuid>47acf3cc-aaf9-43f2-b5b0-d8ec62b282ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = ' Favorite' or . = ' Favorite')]</value>
+      <webElementGuid>6f9feebe-a313-44dc-9589-8e5425caac39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

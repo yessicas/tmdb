@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addListButton</name>
+   <tag></tag>
+   <elementGuidId>18a31d26-7e06-4d8b-86ab-fa4a7cc906b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.tooltip.use_tooltip.list.tooltip_hover.k-state-border-down > a.no_click</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='original_header']/div[2]/section/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ec93c79-21a1-412b-af6a-8977521f293e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no_click</value>
+      <webElementGuid>d0e8938b-b8a1-4610-a1a4-b98caaa4f282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9d98b482-aa0c-4eb2-82a7-2bc2b2a83afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;original_header&quot;)/div[@class=&quot;header_poster_wrapper true&quot;]/section[@class=&quot;header poster&quot;]/ul[@class=&quot;auto actions&quot;]/li[@class=&quot;tooltip use_tooltip list tooltip_hover k-state-border-down&quot;]/a[@class=&quot;no_click&quot;]</value>
+      <webElementGuid>cd32c422-b718-423b-9253-ded7096f3ba8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='original_header']/div[2]/section/ul/li[2]/a</value>
+      <webElementGuid>7b8b9909-552d-4c77-9ce5-1ba410186fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UserScore'])[1]/following::a[1]</value>
+      <webElementGuid>d015542a-1630-410e-9f69-1bfee549b2e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fantasy'])[1]/following::a[1]</value>
+      <webElementGuid>e42856b2-8257-4c1b-afb2-bd877f1ec379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('She', &quot;'&quot;, 's everything. He', &quot;'&quot;, 's just Ken.')])[1]/preceding::a[5]</value>
+      <webElementGuid>939ed400-c134-4efc-9772-0b9f2ffb2689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[3]/preceding::a[5]</value>
+      <webElementGuid>761f7449-2aa0-45cb-bc17-c0b3b235aa47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>9d3e4fe0-b0b1-4b66-88ef-dbbd41e10e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li[2]/a</value>
+      <webElementGuid>eddfd09c-05c8-4b2d-8ed5-91521ae86769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>7be68634-15c2-42a5-8313-5cc1e1688dbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

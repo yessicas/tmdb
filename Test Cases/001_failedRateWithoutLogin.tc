@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_failedRateWithoutLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb7f1ab4-cbd6-4ad2-86c5-e6d7d4711b48</testCaseGuid>
+</TestCaseEntity>
