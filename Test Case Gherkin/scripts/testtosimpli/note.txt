@@ -1,0 +1,1 @@
+Folders organise scripts such as the Hello World example below. Folders are best used for managing releases, with one folder per release, and copying the whole folder when preparing for the next release.

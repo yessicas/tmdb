@@ -1,0 +1,63 @@
+v3,21/Sep/2023,13:37:16,UTC
+
+SCRIPT
+Name,Remove Marks movie as favorite
+Description,
+Created,21/Sep/2023,12:24:08
+
+REPORT COMMENTS
+(none)
+
+,,,show,number,1,,
+,,,show,tester,jess,,
+,,,show,date,21 Sep 2023,,
+,,,hide,time,13:04:34,,
+,,,hide,tag filter,ALL,,
+,,,show,build,,,
+""
+,,,,pass,6,100%,
+,,,,fail,0,0%,
+,,,,blocked,0,0%,
+,,,,tried,6,100%,
+
+number,indent,text,tags,notes,result,issue,comment
+1,1,//Positive Case,,,,,
+2,2,Scenario: Successfull to remove Mark Movie Trending As Favorite ,,,,,
+3,3,--Given user success login,,,,,
+4,3,--When user has been mark movie as favorite,,,,,
+5,3,--And user click the burger icon at movie favorite,,,,,
+6,3,--And user click Heart icon,,,,,
+7,3,Then user success to remove mark movie as favorite and get success messege,,,pass,,
+8,3,,,,,,
+9,2,Scenario: Successfull to Mark Movie After Search ,,,,,
+10,3,--Given user success login,,,,,
+11,3,--When user has been mark movie as favorite,,,,,
+12,3,--And user click search button,,,,,
+13,3,--And user input keyword movie has been mark ,,,,,
+14,3,--|keyword|,,,,,
+15,3,--|Barbie|,,,,,
+16,3,Then web show up result movie by keyword,,,pass,,
+17,3,--And user click the movie Barbie,,,,,
+18,3,--And user direct to detail movie,,,,,
+19,3,--And user click Heart Icon,,,,,
+20,3,Then user success to remove mark movie as favorite and get success messege,,,pass,,
+21,3,,,,,,
+22,2,Scenario: Verify Removed Marks As Favorite unsaved in profile user ,,,,,
+23,3,--Given user succes to marks movie as favorite,,,,,
+24,3,--When user has been mark movie as favorite,,,,,
+25,3,--And user go to profile user,,,,,
+26,3,--And click Overview - Favorite - Movie button,,,,,
+27,3,Then verify there is saved marks as favorite's movie,,,pass,,
+28,3,--When user remove the favorite mark,,,,,
+29,3,--And user check on user profile - Overview - Favorite - Movie button,,,,,
+30,3,Then verify that the movie has been remove from favorite list,,,pass,,
+31,1,,,,,,
+32,1,//Negative Case,,,,,
+33,2,Scenario: Failed to remove marks favorite without login,,,,,
+34,3,--Given user go to url https://www.themoviedb.org/,,,,,
+35,3,--When user has mark movie as favorite,,,,,
+36,3,--And user click the burger icon at movie favorite,,,,,
+37,3,Then user has cannot find heard button and get message,,,pass,,
+38,3,,,,,,
+39,3,,,,,,
+40,2,,,,,,

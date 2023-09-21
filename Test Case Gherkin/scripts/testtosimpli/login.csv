@@ -1,0 +1,57 @@
+v3,21/Sep/2023,13:37:16,UTC
+
+SCRIPT
+Name,Login
+Description,
+Created,19/Sep/2023,07:41:34
+
+REPORT COMMENTS
+(none)
+
+,,,show,number,1,,
+,,,show,tester,jess,,
+,,,show,date,19 Sep 2023,,
+,,,hide,time,07:41:34,,
+,,,hide,tag filter,ALL,,
+,,,show,build,,,
+""
+,,,,pass,4,100%,
+,,,,fail,0,0%,
+,,,,blocked,0,0%,
+,,,,tried,4,100%,
+
+number,indent,text,tags,notes,result,issue,comment
+1,1,//PositiveCase,,,,,
+2,2,Scenario: Successfull Login,,,,,
+3,3,--Given user has open url https://www.themoviedb.org/,,,,,
+4,3,--When user click Login header button ,,,,,
+5,3,--And user input valid username,,,,,
+6,3,--And user input vallid password,,,,,
+7,3,--And user click login button,,,,,
+8,3,Then user succes login and direct to userprofile,,,pass,,
+9,3,,,,,,
+10,1,Negative Case,,,,,
+11,2,Scenario: Failed Login with Invalid Username,,,,,
+12,3,--Given user has open url https://www.themoviedb.org/,,,,,
+13,3,--When user click Login header button ,,,,,
+14,3,--And user input invalid username,,,,,
+15,3,--And user input vallid password,,,,,
+16,3,--And user click login button,,,,,
+17,3,Then user failed to login and get error message,,,pass,,
+18,3,,,,,,
+19,3,,,,,,
+20,2,Scenario: Failed Login with Invalid password,,,,,
+21,3,--Given user has open url https://www.themoviedb.org/,,,,,
+22,3,--When user click Login header button ,,,,,
+23,3,--And user input valid username,,,,,
+24,3,--And user input invalid password,,,,,
+25,3,--And user click login button,,,,,
+26,3,Then user failed to login and get error message,,,pass,,
+27,3,,,,,,
+28,3,,,,,,
+29,2,Scenario: Failed Login with empty field,,,,,
+30,3,--Given user has open url https://www.themoviedb.org/,,,,,
+31,3,--When user click Login header button ,,,,,
+32,3,--And user click login button,,,,,
+33,3,Then user failed to login and get error message,,,pass,,
+34,3,,,,,,

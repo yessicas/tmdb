@@ -1,0 +1,60 @@
+v3,21/Sep/2023,13:37:16,UTC
+
+SCRIPT
+Name,Custome List
+Description,
+Created,19/Sep/2023,08:16:41
+
+REPORT COMMENTS
+(none)
+
+,,,show,number,1,,
+,,,show,tester,jess,,
+,,,show,date,19 Sep 2023,,
+,,,hide,time,08:41:31,,
+,,,hide,tag filter,ALL,,
+,,,show,build,,,
+""
+,,,,pass,6,100%,
+,,,,fail,0,0%,
+,,,,blocked,0,0%,
+,,,,tried,6,100%,
+
+number,indent,text,tags,notes,result,issue,comment
+1,1,//Positive Case,,,,,
+2,2,Scenario: Successfull add to list ,,,,,
+3,3,--Given user success login,,,,,
+4,3,--And user click the burger icon,,,,,
+5,3,--And user click icon list button,,,,,
+6,3,Then user success add to list movie and get success messege,,,pass,,
+7,3,,,,,,
+8,2,Scenario: Successfull add to list After Search ,,,,,
+9,3,--Given user success login,,,,,
+10,3,--And user click search button,,,,,
+11,3,--And user input keyword movie,,,,,
+12,3,--|keyword|,,,,,
+13,3,--|Barbie|,,,,,
+14,3,Then web show up result movie by keyword,,,pass,,
+15,3,--And user click the movie Barbie,,,,,
+16,3,--And user direct to detail movie,,,,,
+17,3,--And user click icon list button,,,,,
+18,3,Then user success to add to list movie,,,pass,,
+19,3,,,,,,
+20,2,Scenario: Verify Movie add to list movie saved in list,,,,,
+21,3,--Given user succes to add to list movie ,,,,,
+22,3,--And user go to profile user,,,,,
+23,3,--And click List button,,,,,
+24,3,Then verify there is saved add to list movie,,,pass,,
+25,3,,,,,,
+26,1,//Negative Case,,,,,
+27,2,Scenario: Failed to add to list movie without login on homepage,,,,,
+28,3,--Given user open url https://www.themoviedb.org/,,,,,
+29,3,--And user click the burger icon,,,,,
+30,3,Then there is no icon list button,,,pass,,
+31,3,,,,,,
+32,2,Scenario: Failed to add to list movie without login on detail movie page,,,,,
+33,3,--Given user open url https://www.themoviedb.org/,,,,,
+34,3,--And user click movie image,,,,,
+35,3,--And user direct to detail movie page,,,,,
+36,3,--And user click icon list button,,,,,
+37,3,Then user failed to add to list movie and get text message,,,pass,,
