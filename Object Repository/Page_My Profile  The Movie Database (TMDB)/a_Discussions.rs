@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Discussions</name>
+   <tag></tag>
+   <elementGuidId>6c8a9085-bd06-4a5f-a2e6-2ed4c60312b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Discussions')])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9433eb80-257a-471d-ac96-88fe78b53970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/u/yessicas/discussions</value>
+      <webElementGuid>9587ba6b-feb1-4b86-b306-fb18c5bb82be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discussions</value>
+      <webElementGuid>f5602cb4-1924-42ee-8282-e19d6f92d400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js k-webkit k-webkit116&quot;]/body[@class=&quot;en v4&quot;]/div[@class=&quot;k-animation-container&quot;]/div[@class=&quot;k-widget k-tooltip k-tooltip-closable k-popup k-group k-reset k-state-border-up tmdb_theme_white no_pad&quot;]/div[@class=&quot;k-tooltip-content&quot;]/div[@class=&quot;settings_content&quot;]/div[@class=&quot;group&quot;]/p[1]/a[1]</value>
+      <webElementGuid>4388e83b-445d-49e4-bd3e-abf326a516d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Discussions')])[5]</value>
+      <webElementGuid>29199c56-fafb-4667-9813-fa555fb623e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View profile'])[2]/following::a[1]</value>
+      <webElementGuid>b09a5924-aa33-44aa-afc7-9f9ef6444151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='yessicas'])[3]/following::a[2]</value>
+      <webElementGuid>a1784118-4e7c-4057-bfee-3147633457c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lists'])[3]/preceding::a[1]</value>
+      <webElementGuid>9a4a2aae-4c55-4e39-aec0-ad7845455a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ratings'])[3]/preceding::a[2]</value>
+      <webElementGuid>54490be9-ebe8-4336-940d-2d54278bda28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/u/yessicas/discussions')])[3]</value>
+      <webElementGuid>d3548d11-6cc7-4dfc-b291-a4602b26dc21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div/div[2]/p/a</value>
+      <webElementGuid>3b36c156-e2f8-4217-8e91-6b35ee38b408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/u/yessicas/discussions' and (text() = 'Discussions' or . = 'Discussions')]</value>
+      <webElementGuid>46fb08f0-e579-43ae-b0c6-d94113192daf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -35,15 +35,17 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Page_UserProfileTMDB/spanUserProfileButton'))
 
+WebUI.mouseOver(findTestObject('Page_My Profile  The Movie Database (TMDB)/p_Discussions'), FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('Page_UserProfileTMDB/viewProfileButton'))
 
 WebUI.click(findTestObject('Object Repository/Page_UserProfileTMDB/OverviewAction/spanOverviewListButton'))
 
 WebUI.waitForElementPresent(findTestObject('Page_UserProfileTMDB/OverviewAction/spanOverviewtoFavoritesListButton'), 3)
 
-WebUI.verifyTextPresent('Favorite', false)
-
 WebUI.click(findTestObject('Object Repository/Page_UserProfileTMDB/OverviewAction/spanOverviewtoFavoritesListButton'))
+
+WebUI.verifyTextPresent('Favorite', false)
 
 WebUI.waitForElementPresent(findTestObject('Page_UserProfileTMDB/OverviewAction/overviewToFavoriteToMovieListButton'), 3)
 

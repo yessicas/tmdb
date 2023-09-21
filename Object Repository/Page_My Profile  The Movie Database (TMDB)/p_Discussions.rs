@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Discussions</name>
+   <tag></tag>
+   <elementGuidId>b8fb2da5-8604-4405-afd4-43d87b9d1372</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View profile'])[2]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3f503278-dabf-4515-ba0a-ade15a118fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discussions</value>
+      <webElementGuid>dfa99651-d79d-4b2e-9692-ac2aa489846d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js k-webkit k-webkit116&quot;]/body[@class=&quot;en v4&quot;]/div[@class=&quot;k-animation-container&quot;]/div[@class=&quot;k-widget k-tooltip k-tooltip-closable k-popup k-group k-reset k-state-border-up tmdb_theme_white no_pad&quot;]/div[@class=&quot;k-tooltip-content&quot;]/div[@class=&quot;settings_content&quot;]/div[@class=&quot;group&quot;]/p[1]</value>
+      <webElementGuid>885a1539-3717-4cc2-a269-91f0707263dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View profile'])[2]/following::p[1]</value>
+      <webElementGuid>3fd34a90-c201-4c87-84a7-621a384dfcfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='yessicas'])[3]/following::p[2]</value>
+      <webElementGuid>87ea9076-39d4-4f27-ab18-ea851516f2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lists'])[3]/preceding::p[1]</value>
+      <webElementGuid>e13d8263-2656-4ce7-aebf-fcee3fa99843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div/div[2]/p</value>
+      <webElementGuid>4fc64db5-b1f4-43df-adee-9371e5463fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Discussions' or . = 'Discussions')]</value>
+      <webElementGuid>4d52c942-c084-47a1-b570-a87c3846af51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
